@@ -1,7 +1,7 @@
 # Remove from .gitignore when ready.
 stylelint.config.js
 
-style.css
+styles.css
 
 style.production.css
 
